@@ -111,3 +111,10 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 *Tabla 5.2: Comprobación del teorema de thévenin*
 
 ![image](https://user-images.githubusercontent.com/116774235/211028286-9b14ce63-b5f2-4161-95c0-941af0811198.png)
+
+# **CÁLCULO DEL ERROR**
+
+**Cálculo del error del circuito de Thévenin**
+
+* **Voltaje de Thévenin**
+
