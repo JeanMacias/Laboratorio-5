@@ -107,3 +107,7 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 *Cálculos realizados:*
 
 ![image](https://user-images.githubusercontent.com/116774235/211026373-c4b63169-0e79-4ed4-b2aa-7f587133ce74.png)
+
+*Tabla 5.2: Comprobación del teorema de thévenin*
+
+![image](https://user-images.githubusercontent.com/116774235/211028286-9b14ce63-b5f2-4161-95c0-941af0811198.png)
