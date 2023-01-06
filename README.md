@@ -148,6 +148,10 @@ Los diferentes porcentajes de error hallados son demasiado bajos por lo que se c
 
 # **CONCLUSIONES**
 
+* El teorema de Thévenin simplifica mucho la complejidad de resolver un circuito pero se debe manejar con eficacia las Leyes de KIRCHHOFF y de Ohm.
+
+* El teorem de Thévenin nos indica como trabajar un circuito en base a una resistencia para hallar las diferentes incógnitas.
+
 # **BIBLIOGRAFÍA**
 
 FLOYD, THOMAS L.Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
