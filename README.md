@@ -137,3 +137,11 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 * **Corriente del Circuito equivalente de Thévenin**
 
 ![image](https://user-images.githubusercontent.com/116774235/211030556-981200ab-6c56-43fe-9c79-5ecd8e433211.png)
+
+Los diferentes porcentajes de error hallados son demasiado bajos por lo que se concluye que los cálculos se realizaron de manera correcta.
+
+# **CONCLUSIONES**
+
+# **BIBLIOGRAFÍA**
+
+FLOYD, THOMAS L.Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
