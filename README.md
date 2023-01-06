@@ -6,7 +6,13 @@ NOMBRES: JEAN MACIAS, DIRSON TROYA, JOAN CALDERÓN
 
 **OBJETIVO GENERAL**
 
+Comprender el funcionamiento del teorema de Thévenin en implementarlo para la resolución de circuitos eléctricos.
+
 **OBJETIVOS ESPECÍFICOS**
+
+* Resolver circuitos complejos con dos o más fuentes de alimentación mediante el uso del teorema de Thévenin
+
+* Aprender a realizar circuitos equivalentes para encontrar las distintas incógnitas propuestas en un circuito.
 
 **5.2 REQUISITOS PREVIOS**
 
