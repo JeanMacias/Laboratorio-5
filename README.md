@@ -114,7 +114,26 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 # **CÁLCULO DEL ERROR**
 
-**Cálculo del error del circuito de Thévenin**
-
 * **Voltaje de Thévenin**
 
+![image](https://user-images.githubusercontent.com/116774235/211029896-cebc2c8e-d81e-41bf-bb00-97bc42e1d2ba.png)
+
+* **Resistencia de Thévenin**
+
+![image](https://user-images.githubusercontent.com/116774235/211030119-ac5b897b-97c2-4d3a-a822-6967f9987e3f.png)
+
+* **Voltaje del Circuito Original**
+
+![image](https://user-images.githubusercontent.com/116774235/211030332-ba2ab77e-5806-4978-959b-07ea20828ff1.png)
+
+* **Corriente del Circuito Original**
+
+![image](https://user-images.githubusercontent.com/116774235/211030426-013fcd69-6b6b-4094-9da8-12c670752f26.png)
+
+* **Voltaje del Circuito equivalente de Thévenin**
+
+![image](https://user-images.githubusercontent.com/116774235/211030515-d4640fce-bce7-4c4c-8590-31ae47c3d72b.png)
+
+* **Corriente del Circuito equivalente de Thévenin**
+
+![image](https://user-images.githubusercontent.com/116774235/211030556-981200ab-6c56-43fe-9c79-5ecd8e433211.png)
