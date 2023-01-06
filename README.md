@@ -63,9 +63,14 @@ del circuito para el equivalente de Thévenin, con las fuentes de alimentación 
 
 ![image](https://user-images.githubusercontent.com/116774235/211015678-a7882514-5d2f-42ec-803c-719c5a5e1ed0.png)
 
-5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor
+5.5.3 Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor
 medido en la tabla 5.1.
 
 ![image](https://user-images.githubusercontent.com/116774235/211017720-fe0d9b81-9731-4898-bcfc-07c09e94f691.png)
 
 ![image](https://user-images.githubusercontent.com/116774235/211017792-9c1941ea-b0c3-4a31-a867-33e19a45442b.png)
+
+5.5.4 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
+abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
+
+![image](https://user-images.githubusercontent.com/116774235/211018829-9993b4b9-ba14-429f-858d-8db476f158f1.png)
