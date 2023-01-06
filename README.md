@@ -63,6 +63,11 @@ del circuito para el equivalente de Thévenin, con las fuentes de alimentación 
 
 ![image](https://user-images.githubusercontent.com/116774235/211015678-a7882514-5d2f-42ec-803c-719c5a5e1ed0.png)
 
+*Tabla 5.2: Comprobación del teorema de thévenin*
+
+![image](https://user-images.githubusercontent.com/116774235/211028286-9b14ce63-b5f2-4161-95c0-941af0811198.png)
+
+
 5.5.3 Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor
 medido en la tabla 5.1.
 
@@ -92,4 +97,8 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 *Medidas realizadas en tinkercad:*
 
-![image](https://user-images.githubusercontent.com/116774235/211024264-85470864-8c92-4520-8446-51e5545b0a2b.png)
+![image](https://user-images.githubusercontent.com/116774235/211024488-cf6c7669-69d0-4368-ab78-6b43dacec263.png)
+
+*Cálculos realizados:*
+
+![image](https://user-images.githubusercontent.com/116774235/211026373-c4b63169-0e79-4ed4-b2aa-7f587133ce74.png)
